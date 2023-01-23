@@ -1,5 +1,5 @@
 {
-    "name": "salto",
+    "name": "esquivar objeto micro bit",
     "description": "",
     "dependencies": {
         "core": "*",
